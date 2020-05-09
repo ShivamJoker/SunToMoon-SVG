@@ -1,0 +1,16 @@
+div{
+  text-align: center;
+  margin-top: 10vh;
+}
+
+svg .mooned {
+  transform: translate(-90px, 90px);
+}
+
+svg #overlay, body {
+  transition: all 1.2s ease-in-out;
+}
+
+.dark{
+  background: rgb(31, 31, 31)
+}
